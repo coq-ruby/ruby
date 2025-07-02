@@ -1,2 +1,0 @@
-Require Export FunctionalExtensionality.
-Require Export PropExtensionality.
